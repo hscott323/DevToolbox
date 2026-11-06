@@ -1,4 +1,4 @@
-# DevToolbox 🧰
+# DevToolbox 
 A collection of reusable development tools, scripts, and configurations used across my projects.
 
 ## Clone
