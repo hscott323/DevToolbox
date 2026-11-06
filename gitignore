@@ -9,6 +9,9 @@
 .[Cc]ache/
 .[Cc]langd/
 
+# Config
+.clangd
+
 # Code Editors
 .vs/
 .vscode/
